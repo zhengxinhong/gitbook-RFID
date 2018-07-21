@@ -27,3 +27,20 @@ dB一般只是做加法，因为如A到B增益20dB，B到C衰减35dB，求A到C�
 ### 2.灵敏度:
 
 ### 3.发射功率：
+
+Indy R2000 Dev Platform (FCC)
+ 
+?   支持协议：EPCglobal UHF Class 1 Gen 2 / ISO
+18000-6C
+?   支持区域：FCC 、ETSI
+?   输出功率：最大 30 dBm（外部供电），23 dBm
+（USB 供电），功率可调，前向和反向功率监测
+?   DRM 滤波器：包含高性能外部DRM 滤波器，适用于环境恶劣的情况
+?   天线：双天线配置（50 Ω MMCX 接口），可配置成
+一个隔离天线或者两个一体天线
+?   通信接口：Mini-USB 、UART，具有工程调试功能
+?   尺寸：88mm×45mm（模块大小）
+?   开发包：硬件包括开发板、接口板、电源、相关的线
+缆以及 PCB Gerber 文件，软件包括 Firmware、 windows/wince 下驱动、SDK 以及示例程序，并且提供 Indy Tool 以及 Indy Tracer 工具便于操作和调
+
+
