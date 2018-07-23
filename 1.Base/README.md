@@ -43,4 +43,4 @@ Indy R2000 Dev Platform (FCC)
 ?   开发包：硬件包括开发板、接口板、电源、相关的线
 缆以及 PCB Gerber 文件，软件包括 Firmware、 windows/wince 下驱动、SDK 以及示例程序，并且提供 Indy Tool 以及 Indy Tracer 工具便于操作和调
 
-
+### PA-功率放大器(PowerAmplifier) 
