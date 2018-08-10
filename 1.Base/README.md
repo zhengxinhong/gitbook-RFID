@@ -44,3 +44,9 @@ Indy R2000 Dev Platform (FCC)
 缆以及 PCB Gerber 文件，软件包括 Firmware、 windows/wince 下驱动、SDK 以及示例程序，并且提供 Indy Tool 以及 Indy Tracer 工具便于操作和调
 
 ### PA-功率放大器(PowerAmplifier) 
+
+### 天线长度计算
+c=λf 
+λ = c/f * 0.96 
+0.96 是波长缩短率
+
