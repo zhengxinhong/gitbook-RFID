@@ -3,3 +3,6 @@
 
 
 in order to  为了
+
+manufacturer
+英 [ˌmænjuˈfæktʃərə(r)] 
